@@ -1,2 +1,2 @@
 # journey
-##100daysOfCode
+#100daysOfCode
